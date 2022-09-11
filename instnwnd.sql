@@ -9,6 +9,8 @@
 ** 7 - qadam : Endi siz Jadvallarga turli Querylar yozib natijalarni ko'rishingiz mumkun.
 ** 
 ** credit by - https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
+
+
 */
 
 SET NOCOUNT ON
